@@ -1,0 +1,6 @@
+build/
+__pycache__/
+*.py[cod]
+*.blend[0-9]*
+.DS_Store
+.env

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "frame-breaker",
+    "kind": "equipment",
+    "poses": [
+      {
+        "name": "assembled",
+        "frame": 1
+      },
+      {
+        "name": "service",
+        "frame": 80
+      }
+    ]
+  },
+  {
+    "name": "independent-pole-breaker",
+    "kind": "equipment",
+    "poses": [
+      {
+        "name": "assembled",
+        "frame": 1
+      },
+      {
+        "name": "service",
+        "frame": 80
+      }
+    ]
+  },
+  {
+    "name": "breaker-comparison",
+    "kind": "equipment",
+    "poses": [
+      {
+        "name": "assembled",
+        "frame": 1
+      },
+      {
+        "name": "service",
+        "frame": 80
+      }
+    ]
+  }
+]
